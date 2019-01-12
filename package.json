@@ -1,0 +1,14 @@
+{
+  "name": "rs-docker-aws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andreluizmorita/rs-docker-aws.git",
+  "author": "André Luiz Morita <andreluizmorita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
